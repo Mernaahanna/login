@@ -21,10 +21,20 @@
     "@adonisjs/lucid": "^4.0.22",
     "@adonisjs/session": "^1.0.19",
     "@adonisjs/shield": "^1.0.4",
+    "@fortawesome/fontawesome-svg-core": "^1.2.22",
+    "@fortawesome/free-brands-svg-icons": "^5.10.2",
+    "@fortawesome/pro-duotone-svg-icons": "^5.10.2",
+    "@fortawesome/pro-light-svg-icons": "^5.10.2",
+    "@fortawesome/pro-regular-svg-icons": "^5.10.2",
+    "@fortawesome/pro-solid-svg-icons": "^5.10.2",
+    "@fortawesome/vue-fontawesome": "^0.1.7",
     "@nuxtjs/bulma": "^1.2.1",
     "cross-env": "^5.2.0",
     "nuxt": "^2.0.0",
-    "vee-validate": "^3.0.8"
+    "nuxt-fontawesome": "^0.4.0",
+    "vee-validate": "^3.0.8",
+    "vue-circular-count-down-timer": "^1.0.4",
+    "vue-router": "^3.1.3"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
